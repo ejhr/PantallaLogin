@@ -1,0 +1,10 @@
+C:\Users\52552\source\repos\Pantalla_de_Login\bin\Debug\Pantalla_de_Login.exe.config
+C:\Users\52552\source\repos\Pantalla_de_Login\bin\Debug\Pantalla_de_Login.exe
+C:\Users\52552\source\repos\Pantalla_de_Login\bin\Debug\Pantalla_de_Login.pdb
+C:\Users\52552\source\repos\Pantalla_de_Login\obj\Debug\Pantalla_de_Login.csproj.AssemblyReference.cache
+C:\Users\52552\source\repos\Pantalla_de_Login\obj\Debug\Pantalla_de_Login.Form1.resources
+C:\Users\52552\source\repos\Pantalla_de_Login\obj\Debug\Pantalla_de_Login.Properties.Resources.resources
+C:\Users\52552\source\repos\Pantalla_de_Login\obj\Debug\Pantalla_de_Login.csproj.GenerateResource.cache
+C:\Users\52552\source\repos\Pantalla_de_Login\obj\Debug\Pantalla_de_Login.csproj.CoreCompileInputs.cache
+C:\Users\52552\source\repos\Pantalla_de_Login\obj\Debug\Pantalla_de_Login.exe
+C:\Users\52552\source\repos\Pantalla_de_Login\obj\Debug\Pantalla_de_Login.pdb
